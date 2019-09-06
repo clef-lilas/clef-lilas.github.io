@@ -28,7 +28,7 @@ The workshop will end with some short presentations of the results of the break-
 ## LiLAS 2020 Chairs
 
 - [Philipp Schaer](https://ir.web.th-koeln.de/people/philipp-schaer/), TH Köln, Germany
-- [Johann Schaible](http://gesis.org/person/johann.schaible), GESIS, Germany
+- [Johann Schaible](https://gesis.org/person/johann.schaible), GESIS, Germany
 - Bernd Müller, ZB MED, Germany
 
 Contact: <lilas@stella-project.org>
