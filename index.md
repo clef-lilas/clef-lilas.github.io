@@ -15,6 +15,12 @@ As huge platforms like Google Scholar (or Google Dataset Search) are not open to
 We would like to move beyond the traditional offline evaluation setup and bring together evaluation techniques from industry and practice into the academic realm. Therefore, utilizing online evaluations, as take the actual user into account, would be a step forward towards improving the evaluation situation.
 The details of the online experiments and the metrics are to be discussed at the workshop, but right now we favor a setup which is based on a Docker container infrastructure that is briefly described in [Breuer et al. (2019)](http://ceur-ws.org/Vol-2409/position01.pdf) and would incorporate usage feedback like click-through rates.
 
+# Tasks
+
+As this is a workshop lab we don't have any explicit tasks like regular evaluation labs at CLEF. 
+
+Nevertheless we would like to release some sample data sets from the scientific search systems LIVIVO and GESIS-wide Search and some Docker templates to allow early adopters to implement first prototypes for an online evaluation. At the workshop we would like to have these early adopters who took part in this open beta phase to present their first-hand experiences to lay a foundation for 2021.
+
 # Organization
 
 We plan to have a *half-day workshop* that is split up in two parts. 
