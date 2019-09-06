@@ -35,6 +35,6 @@ Contact: <lilas@stella-project.org>
 
 LiLAS ist part of CLEF 2020 held in Thessaloniki.
 
-[<img src="clef2020_logo.png" height="200">](http://www.clef-initiative.eu/)
-[<img src="clef-association-logo.png" height="200">](https://clef2020.clef-initiative.eu/)
+[<img src="clef2020_logo.png" height="200">](https://clef2020.clef-initiative.eu/)
+[<img src="clef-association-logo.png" height="200">](https://www.clef-initiative.eu/)
 
