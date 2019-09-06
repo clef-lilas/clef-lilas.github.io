@@ -31,4 +31,4 @@ The workshop will end with some short presentations of the results of the break-
 - Johann Schaible, GESIS, Germany
 - Bernd Müller, ZB MED, Germany
 
-Contact: <mailto:lilas@stella-project.org>
+Contact: <lilas@stella-project.org>
