@@ -35,7 +35,7 @@ The workshop will end with some short presentations of the results of the break-
 
 - [Philipp Schaer](https://ir.web.th-koeln.de/people/philipp-schaer/), TH Köln, Germany
 - [Johann Schaible](https://gesis.org/person/johann.schaible), GESIS, Germany
-- Bernd Müller, ZB MED, Germany
+- Leyla Jael Garcia-Castro, ZB MED, Germany
 
 Contact: <lilas@stella-project.org>
 
