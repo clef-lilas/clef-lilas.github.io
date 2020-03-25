@@ -10,9 +10,9 @@ The motivation behind this lab is to
 # Background
 
 We see academic search as a broader term for scientific and especially domain-specific retrieval tasks which comprises Document as well as Dataset Retrieval.
-As huge platforms like Google Scholar (or Google Dataset Search) are not open to public research and do not offer any domain-specific features, we focus on mid-size scientific search systems that offer domain-specific resources and use cases. This focus allows for using many specific information types like bibliographic metadata, usage data, download rates, citations, etc., in order to develop and evaluate innovative search applications.
+As huge platforms like Google Scholar (or Google Dataset Search) are not open to public research and do not offer any domain-specific features, we focus on mid-size scientific search systems that offer domain-specific resources and use cases. This focus allows for using many specific information types like bibliographic metadata, usage data, download rates, citations, etc., in order to develop and evaluate innovative search applications. Further details on current evaluation infrastructures in academic search can be found in [Schaible et al. (2020)](http://link.springer.com/article/10.1007/s13222-020-00335-x).
 
-We would like to move beyond the traditional offline evaluation setup and bring together evaluation techniques from industry and practice into the academic realm. Therefore, utilizing online evaluations, as take the actual user into account, would be a step forward towards improving the evaluation situation.
+We would like to move beyond the traditional offline evaluation setup and bring together evaluation techniques from industry and practice into the academic realm. Therefore, utilizing online evaluations, as taking the actual user into account, would be a step forward towards improving the evaluation situation.
 The details of the online experiments and the metrics are to be discussed at the workshop, but right now we favor a setup which is based on a Docker container infrastructure that is briefly described in [Breuer et al. (2019)](http://ceur-ws.org/Vol-2409/position01.pdf) and would incorporate usage feedback like click-through rates.
 
 # Tasks
