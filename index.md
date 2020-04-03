@@ -77,11 +77,11 @@ The workshop will end with some short presentations of the results of the break-
 ## Programm Committee 
 
 - Krisztian Balog, University of Stavanger, Norway
-- Joeran Beel, Trinity College Dublin, Ireland
+<!-- Needs to finally confirm - Joeran Beel, Trinity College Dublin, Ireland -->
 - Birger Larsen, Aalborg University, Denmark
 - Philipp Mayr, GESIS, Germany
 - Tommaso di Noia, Politecnico di Bari, Italy
-- Ansgar Scherp, University of Essex, UK
+<!-- Needs to confirm - Ansgar Scherp, University of Essex, UK -->
 
 
 ---
