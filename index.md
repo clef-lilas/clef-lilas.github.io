@@ -78,9 +78,13 @@ The workshop will end with some short presentations of the results of the break-
 
 - Krisztian Balog, University of Stavanger, Norway
 - Joeran Beel, Trinity College Dublin, Ireland
+<!--- Birger Larsen, Aalborg University, Denmark -->
 - Philipp Mayr, GESIS, Germany
 - Tommaso di Noia, Politecnico di Bari, Italy
 - Ansgar Scherp, University of Essex, UK
+
+
+---
 
 Contact: <lilas@stella-project.org>
 
