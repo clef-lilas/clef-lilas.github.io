@@ -70,6 +70,12 @@ The workshop will end with some short presentations of the results of the break-
 - [Johann Schaible](https://gesis.org/person/johann.schaible), GESIS, Germany
 - Leyla Jael Garcia-Castro, ZB MED, Germany
 
+## Programm Committee 
+
+- Krisztian Balog, University of Stavanger, Norway
+- Joeran Beel, Trinity College Dublin, Ireland
+- Philipp Mayr, GESIS, Germany
+
 Contact: <lilas@stella-project.org>
 
 LiLAS ist part of CLEF 2020 held in Thessaloniki.
