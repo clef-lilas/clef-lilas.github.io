@@ -1,3 +1,13 @@
+# Quicklinks
+
+* [Vision](#vision)
+* [Background](#background)
+* [Call for Contribution](#call-for-contribution) (*new*)
+* [Submission Guidelines](#submission-guidelines) (*new*)
+* [Taks](#tasks)
+* [Dates and Schedule](#dates-and-schedule) (*new*)
+* [Organization](#organization)
+
 # Vision
 
 In this workshop lab, we would like to bring together IR researchers interested in the online evaluation of academic search systems. The goal is to foster knowledge on improving the search for academic resources like literature (ranging from short bibliographic records to full-text papers), research data, and the interlinking between these resources. The employed online evaluation approach in this workshop allows the direct connection to existing academic search systems from the Life Sciences and the Social Sciences.
