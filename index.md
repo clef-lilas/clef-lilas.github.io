@@ -4,7 +4,7 @@
 * [Background](#background)
 * [Call for Contribution](#call-for-contribution) (*new*)
 * [Submission Guidelines](#submission-guidelines) (*new*)
-* [Taks](#tasks)
+* [Tasks](#tasks)
 * [Dates and Schedule](#dates-and-schedule) (*new*)
 * [Organization](#organization)
 
