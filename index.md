@@ -74,7 +74,7 @@ The workshop will end with some short presentations of the results of the break-
 - [Johann Schaible](https://gesis.org/person/johann.schaible), GESIS, Germany
 - Leyla Jael Garcia-Castro, ZB MED, Germany
 
-## Programm Committee 
+## Program Committee 
 
 - Krisztian Balog, University of Stavanger, Norway
 - Joeran Beel, Trinity College Dublin, Ireland
