@@ -57,7 +57,7 @@ Nevertheless we would like to release some sample data sets from the scientific 
 
 
 # Dates and Schedule
-__Please register with CLEF 2020 until Sunday, 26 April 2020 at http://clef2020-labs-registration.dei.unipd.it/index.php__ 
+__Please register with CLEF 2020 until Sunday, 26 April 2020 at (http://clef2020-labs-registration.dei.unipd.it/index.php)__ 
 
 * 26 April 2020: Registration for the Lab (contact us, if this is an issue to you)
 * 24 May 2020: Submission of Participant Papers
