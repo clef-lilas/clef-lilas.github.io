@@ -6,7 +6,6 @@
 * [Background](#background)
 * [Call for Contribution](#call-for-contribution) (*new*)
 * [Submission Guidelines](#submission-guidelines) (*new*)
-* [Tasks](#tasks)
 * [Dates and Schedule](#dates-and-schedule) (*new*)
 * [Organization](#organization)
 
@@ -51,15 +50,16 @@ Submissions must be as PDF, formatted in the style of the Springer Publications 
 All submissions must be written in English and should be submitted electronically through the [conference submission system](https://www.easychair.org/conferences/?conf=clef2020).
 
 
+<!--
 ## Tasks
 
 As this is a workshop lab, we don't have any explicit tasks like regular evaluation labs at CLEF. 
 
 Nevertheless we would like to release some sample data sets from the scientific search systems LIVIVO and GESIS-wide Search and some Docker templates to allow early adopters to implement first prototypes for an online evaluation. At the workshop we would like to have these early adopters who took part in this open beta phase to present their first-hand experiences to lay a foundation for 2021.
-
+-->
 
 ## Dates and Schedule
-__Please register with CLEF 2020 until Sunday, 26 April 2020 at (http://clef2020-labs-registration.dei.unipd.it/index.php)__ 
+__Please register with CLEF 2020 until Sunday, 26 April 2020 at [http://clef2020-labs-registration.dei.unipd.it/index.php](http://clef2020-labs-registration.dei.unipd.it/index.php)__ 
 
 * 26 April 2020: Registration for the Lab (contact us, if this is an issue to you)
 * 24 May 2020: Submission of Participant Papers
@@ -84,7 +84,7 @@ The workshop will end with some short presentations of the results of the break-
 
 - [Philipp Schaer](https://ir.web.th-koeln.de/people/philipp-schaer/), TH Köln, Germany
 - [Johann Schaible](https://gesis.org/person/johann.schaible), GESIS, Germany
-- Leyla Jael Garcia-Castro, ZB MED, Germany
+- [Leyla Jael Garcia-Castro](https://www.linkedin.com/in/leyla-jael-garcia-castro-85384a17/), ZB MED, Germany
 
 ### Program Committee 
 
