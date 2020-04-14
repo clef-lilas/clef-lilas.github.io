@@ -6,8 +6,12 @@
 * [Background](#background)
 * [Call for Contribution](#call-for-contribution) (*new*)
 * [Submission Guidelines](#submission-guidelines) (*new*)
-* [Dates and Schedule](#dates-and-schedule) (*new*)
+* [Dates and Schedule](#dates-and-schedule) (*new CLEF deadlines announced*)
 * [Organization](#organization)
+
+```diff
+- Update 2020-04-11: CLEF 2020 will be an online-only conference and therefore LiLAS will be, too. The submission deadlines changed to allow more time to prepare everything: https://twitter.com/clef_initiative/status/1249003650623639552?s=20
+```
 
 ## Vision
 
@@ -62,10 +66,9 @@ Nevertheless we would like to release some sample data sets from the scientific 
 __Please register with CLEF 2020 until Sunday, 26 April 2020 at [http://clef2020-labs-registration.dei.unipd.it/index.php](http://clef2020-labs-registration.dei.unipd.it/index.php)__ 
 
 * 26 April 2020: Registration for the Lab (contact us, if this is an issue to you)
-* 24 May 2020: Submission of Participant Papers
-* 14 June 2020: Notification of Acceptance Participant Papers
-* 28 June 2020: Camera Ready Copy of Participant Papers 
-* 17-22 July 2020: CEUR-WS Working Notes Preview for Checking by Authors
+* 17 July 2020: Submission of Participant Papers
+* 14 August 2020: Notification of Acceptance Participant Papers
+* 28 August 2020: Camera Ready Copy of Participant Papers 
 
 For further details, please refer to the [CLEF 2020 schedule](https://clef2020.clef-initiative.eu/index.php?page=Pages/schedule.html)
 
