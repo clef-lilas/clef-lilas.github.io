@@ -10,7 +10,10 @@
 * [Organization](#organization)
 
 ```diff
-- Update 2020-04-11: CLEF 2020 will be an online-only conference and therefore LiLAS will be, too. The submission deadlines changed to allow more time to prepare everything: https://twitter.com/clef_initiative/status/1249003650623639552?s=20
++ Update 2020-04-11: CLEF 2020 will be an online-only conference and 
++ therefore LiLAS will be, too. The submission deadlines changed to allow 
++ more time to prepare everything: 
++ https://twitter.com/clef_initiative/status/1249003650623639552?s=20
 ```
 
 ## Vision
