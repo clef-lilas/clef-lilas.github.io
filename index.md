@@ -10,6 +10,9 @@
 * [Organization](#organization)
 
 ```diff
++ Update 2020-05-01: 
++ First invited talk: Frank Hopfgartner - Lessions learned from the NewsREEL Living Lab
++
 + Update 2020-04-11: CLEF 2020 will be an online-only conference and 
 + therefore LiLAS will be, too. The submission deadlines changed to allow 
 + more time to prepare everything: 
