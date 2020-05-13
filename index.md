@@ -69,9 +69,8 @@ Nevertheless we would like to release some sample data sets from the scientific 
 -->
 
 ## Dates and Schedule
-__Please register with CLEF 2020 until Sunday, 26 April 2020 at [http://clef2020-labs-registration.dei.unipd.it/index.php](http://clef2020-labs-registration.dei.unipd.it/index.php)__ 
 
-* 26 April 2020: Registration for the Lab (contact us, if this is an issue to you)
+* ~~26 April 2020: Registration for the Lab~~ (no official CLEF registration is needed to join LiLAS in 2020)
 * 17 July 2020: Submission of Participant Papers
 * 14 August 2020: Notification of Acceptance Participant Papers
 * 28 August 2020: Camera Ready Copy of Participant Papers 
