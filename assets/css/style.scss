@@ -11,9 +11,7 @@
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    color: #262626;
-    font-weight:bold;
-    font-family: "Source Sans Pro","Helvetica","Arial","sans-serif";
+    font-weight:bold;    
 }
 
 a {
@@ -23,3 +21,12 @@ a {
 li {
     padding: 0;
 }
+
+body {
+  color: #262626;
+  font-family: "Source Sans Pro","Helvetica","Arial","sans-serif";
+  font-size: 1.25em;
+  word-wrap: break-word;
+}
+
+
