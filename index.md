@@ -4,7 +4,7 @@ feature_text: |
   ### Online Workshop at CLEF 2020, 22-25 September 2020
 feature_image: "/assets/triangular.jpg"
 layout: page
-title: Living Labs for Academic Search (LiLAS)
+title: Living Labs for Academic Search
 ---
 
 * Update 2020-05-01: First invited talk: __Frank Hopfgartner - Lessions learned from the NewsREEL Living Lab__
