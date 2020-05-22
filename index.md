@@ -1,23 +1,15 @@
-# Living Labs for Academic Search (LiLAS)
+---
+feature_text: |
+  ## Living Labs for Academic Search (LiLAS)
+  ### Online Workshop at CLEF 2020, 22-25 September 2020
+feature_image: "/assets/triangular.jpg"
+layout: page
+---
 
-## Quicklinks
+## Updates
 
-* [Vision](#vision)
-* [Background](#background)
-* [Call for Contribution](#call-for-contribution) (*new*)
-* [Submission Guidelines](#submission-guidelines) (*new*)
-* [Dates and Schedule](#dates-and-schedule) (*new CLEF deadlines announced*)
-* [Organization](#organization)
-
-```diff
-+ Update 2020-05-01: 
-+ First invited talk: Frank Hopfgartner - Lessions learned from the NewsREEL Living Lab
-+
-+ Update 2020-04-11: CLEF 2020 will be an online-only conference and 
-+ therefore LiLAS will be, too. The submission deadlines changed to allow 
-+ more time to prepare everything: 
-+ https://twitter.com/clef_initiative/status/1249003650623639552?s=20
-```
+* Update 2020-05-01: First invited talk: __Frank Hopfgartner - Lessions learned from the NewsREEL Living Lab__
+* Update 2020-04-11: CLEF 2020 will be an online-only conference and therefore LiLAS will be, too. The submission deadlines changed to allow more time to prepare everything: [](https://twitter.com/clef_initiative/status/1249003650623639552?s=20)
 
 ## Vision
 
@@ -27,8 +19,6 @@ The motivation behind this lab is to
 - bring together interested researchers
 - advertise the online evaluation campaign idea, and
 - develop ideas, best practices, and guidelines for a full online evaluation campaign at CLEF 2021.
-
-## Background
 
 We see academic search as a broader term for scientific and especially domain-specific retrieval tasks which comprises Document as well as Dataset Retrieval.
 As huge platforms like Google Scholar (or Google Dataset Search) are not open to public research and do not offer any domain-specific features, we focus on mid-size scientific search systems that offer domain-specific resources and use cases. This focus allows for using many specific information types like bibliographic metadata, usage data, download rates, citations, etc., in order to develop and evaluate innovative search applications. Further details on current evaluation infrastructures in academic search can be found in [Schaible et al. (2020)](http://link.springer.com/article/10.1007/s13222-020-00335-x).
@@ -68,7 +58,7 @@ As this is a workshop lab, we don't have any explicit tasks like regular evaluat
 Nevertheless we would like to release some sample data sets from the scientific search systems LIVIVO and GESIS-wide Search and some Docker templates to allow early adopters to implement first prototypes for an online evaluation. At the workshop we would like to have these early adopters who took part in this open beta phase to present their first-hand experiences to lay a foundation for 2021.
 -->
 
-## Dates and Schedule
+## Dates
 
 * ~~26 April 2020: Registration for the Lab~~ (no official CLEF registration is needed to join LiLAS in 2020)
 * 17 July 2020: Submission of Participant Papers
@@ -111,6 +101,6 @@ Contact: <lilas@stella-project.org>
 
 LiLAS ist part of CLEF 2020 held in Thessaloniki.
 
-[<img src="clef2020_logo.png" height="200">](https://clef2020.clef-initiative.eu/)
-[<img src="clef-association-logo.png" height="200">](https://www.clef-initiative.eu/)
+[<img src="/assets/clef2020_logo.png" height="200">](https://clef2020.clef-initiative.eu/)
+[<img src="/assets/clef-association-logo.png" height="200">](https://www.clef-initiative.eu/)
 
