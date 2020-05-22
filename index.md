@@ -4,9 +4,8 @@ feature_text: |
   ### Online Workshop at CLEF 2020, 22-25 September 2020
 feature_image: "/assets/triangular.jpg"
 layout: page
+title: Living Labs for Academic Search (LiLAS)
 ---
-
-## Updates
 
 * Update 2020-05-01: First invited talk: __Frank Hopfgartner - Lessions learned from the NewsREEL Living Lab__
 * Update 2020-04-11: CLEF 2020 will be an online-only conference and therefore LiLAS will be, too. The submission deadlines changed to allow more time to prepare everything: [](https://twitter.com/clef_initiative/status/1249003650623639552?s=20)
