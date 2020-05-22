@@ -103,7 +103,7 @@ The workshop will end with some short presentations of the results of the break-
 - Philipp Mayr, GESIS, Germany
 - Tommaso di Noia, Politecnico di Bari, Italy
 <!-- Needs to confirm - Ansgar Scherp, University of Essex, UK -->
-
+- more to come... 
 
 ---
 
