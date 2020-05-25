@@ -98,7 +98,7 @@ The workshop will end with some short presentations of the results of the break-
 
 Contact: <lilas@stella-project.org>
 
-LiLAS ist part of CLEF 2020 held in Thessaloniki.
+LiLAS ist part of CLEF 2020.
 
 [<img src="/assets/clef2020_logo.png" height="200">](https://clef2020.clef-initiative.eu/)
 [<img src="/assets/clef-association-logo.png" height="200">](https://www.clef-initiative.eu/)
