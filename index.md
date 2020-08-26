@@ -7,6 +7,7 @@ layout: page
 title: Living Labs for Academic Search
 ---
 
+
 * Update 2020-08-26: Please, [register for CLEF 2020](https://www.eventbrite.co.uk/e/clef-2020-conference-and-labs-of-the-evaluation-forum-tickets-116107862743).
 * Update 2020-05-01: First invited talk: __Frank Hopfgartner - Lessions learned from the NewsREEL Living Lab__
 * Update 2020-04-11: CLEF 2020 will be an online-only conference and therefore LiLAS will be, too. The submission deadlines changed to allow more time to prepare everything: [](https://twitter.com/clef_initiative/status/1249003650623639552?s=20)
@@ -63,7 +64,7 @@ Nevertheless we would like to release some sample data sets from the scientific 
 * ~~26 April 2020: Registration for the Lab~~ (no official CLEF registration is needed to join LiLAS in 2020)
 * ~~17 July 2020: Submission of Participant Papers~~
 * ~~14 August 2020: Notification of Acceptance Participant Papers~~
-* ~~28 August 2020: Camera Ready Copy of Participant Papers ~~
+* ~~28 August 2020: Camera Ready Copy of Participant Papers~~
 * Unitl 19 September please [register for CLEF 2020](https://www.eventbrite.co.uk/e/clef-2020-conference-and-labs-of-the-evaluation-forum-tickets-116107862743).
 
 For further details, please refer to the [CLEF 2020 schedule](https://clef2020.clef-initiative.eu/index.php?page=Pages/schedule.html)
