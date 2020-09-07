@@ -8,6 +8,7 @@ title: Living Labs for Academic Search
 ---
 
 
+* Update 2020-09-04: Second invited talk: __Joeran Beel - Lessons Learned from Operating Mr. DLib: A Research-Paper Recommender-System as-a-service with Living Lab__
 * Update 2020-08-26: Please, [register for CLEF 2020](https://www.eventbrite.co.uk/e/clef-2020-conference-and-labs-of-the-evaluation-forum-tickets-116107862743).
 * Update 2020-05-01: First invited talk: __Frank Hopfgartner - Lessions learned from the NewsREEL Living Lab__
 * Update 2020-04-11: CLEF 2020 will be an online-only conference and therefore LiLAS will be, too. The submission deadlines changed to allow more time to prepare everything: [](https://twitter.com/clef_initiative/status/1249003650623639552?s=20)
