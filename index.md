@@ -13,6 +13,21 @@ title: Living Labs for Academic Search
 * Update 2020-05-01: First invited talk: __Frank Hopfgartner - Lessions learned from the NewsREEL Living Lab__
 * Update 2020-04-11: CLEF 2020 will be an online-only conference and therefore LiLAS will be, too. The submission deadlines changed to allow more time to prepare everything: [](https://twitter.com/clef_initiative/status/1249003650623639552?s=20)
 
+## Schedule for 23 September 2020
+
+
+|Time  | Topic  |
+|------|------------------------------------|
+|15:00 | Introduction and Welcome (Philipp Schaer, THK) |
+|15:15 | Invited talk I: Lessons learned from the NewsREEL Living Lab ([Frank Hopfgartner](https://www.sheffield.ac.uk/is/people/academic/frank-hopfgartner), University of Sheffield) |
+|15:45 | STELLA - Evaluation Infrastructure for LiLAS (Timo Breuer, THK) |
+|16:00 | Task 1: Academic Search in the Life Sciences (Leyla Jael Garcia Castro, ZB MED) |
+|16:15 | Task 2: Research Datasets in the Social Sciences (Johann Schaible, GESIS) |
+|16:30 | BREAK |
+|17:00 | Invited talk II: Lessons Learned from Operating Mr. DLib: A Research-Paper Recommender-System as-a-service with Living Lab ([Jöran Beel](https://www.scss.tcd.ie/joeran.beel/), Trinity College Dublin) |
+|17:30 | Open Discussion/Breakout on LiLAS 2021 |
+|18:00 | Sum up, Outlook and Farewell |
+
 ## Vision
 
 In this workshop lab, we would like to bring together IR researchers interested in the online evaluation of academic search systems. The goal is to foster knowledge on improving the search for academic resources like literature (ranging from short bibliographic records to full-text papers), research data, and the interlinking between these resources. The employed online evaluation approach in this workshop allows the direct connection to existing academic search systems from the Life Sciences and the Social Sciences.
