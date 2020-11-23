@@ -57,7 +57,7 @@ Nevertheless we would like to release some sample data sets from the scientific 
 
 ## Dates
 
-For further details, please refer to the [CLEF 2021 schedule](http://clef2021.clef-initiative.eu/index.php?page=Pages/schedule.html)
+For further details, please refer to the [CLEF 2021 schedule](https://clef2021.clef-initiative.eu/index.php?page=Pages/schedule.html)
 
 
 ## Organization
