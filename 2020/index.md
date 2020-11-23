@@ -2,7 +2,7 @@
 feature_text: |
   ## Living Labs for Academic Search (LiLAS)
   ### Online Workshop at CLEF 2020, 22-25 September 2020
-feature_image: "/assets/triangular.jpg"
+feature_image: "../assets/triangular.jpg"
 layout: page
 title: Living Labs for Academic Search
 ---
@@ -118,6 +118,6 @@ Contact: <lilas@stella-project.org>
 
 LiLAS is part of CLEF 2020.
 
-[<img src="/assets/clef2020_logo.png" height="200">](https://clef2020.clef-initiative.eu/)
-[<img src="/assets/clef-association-logo.png" height="200">](https://www.clef-initiative.eu/)
+[<img src="../assets/clef2020_logo.png" height="200">](https://clef2020.clef-initiative.eu/)
+[<img src="../assets/clef-association-logo.png" height="200">](https://www.clef-initiative.eu/)
 

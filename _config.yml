@@ -111,16 +111,16 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Vision
-  url: "#vision"
-- title: Call for Contribution
-  url: "#call-for-contribution"
-- title: Submission Guidelines
-  url: "#submission-guidelines"
+#- title: Vision
+#  url: "#vision"
+- title: Call for Participation
+  url: "#call-for-participation"
 - title: Dates 
   url: "#dates"
 - title: Organization
   url: "#organization"
+- title: LiLAS 2020
+  url: "/2020"
 
 navigation_footer:
 - title: Created by David Darnes

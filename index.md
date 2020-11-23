@@ -2,58 +2,41 @@
 feature_text: |
   ## Living Labs for Academic Search (LiLAS)
   ### Evaluation Lab at CLEF 2021, 21-24 September 2021
-feature_image: "/assets/triangular.jpg"
+feature_image: "/assets/bucharest.jpg"
 layout: page
-title: Living Labs for Academic Search
+title: LiLAS @ CLEF2021
 ---
 
+The *Living Labs for Academic Search* (LiLAS) lab aims to strengthen the concept of user-centric living labs for the domain of academic search by allowing participants to evaluate their retrieval approaches in two real-world academic search systems from the life sciences and the social sciences.
+To this end, we provide participants with metadata on the systems' content as well as candidate lists with the task to rank the most relevant candidate to the top. Using the [STELLA-infrastructure](http://www.stella-project.org), we allow participants to easily integrate their approaches into the real-world systems and provide the possibility to compare different approaches at the same time. 
 
-## Vision
-
-In this workshop lab, we would like to bring together IR researchers interested in the online evaluation of academic search systems. The goal is to foster knowledge on improving the search for academic resources like literature (ranging from short bibliographic records to full-text papers), research data, and the interlinking between these resources. The employed online evaluation approach in this workshop allows the direct connection to existing academic search systems from the Life Sciences and the Social Sciences.
-
-The motivation behind this lab is to 
-- bring together interested researchers
-- advertise the online evaluation campaign idea, and
-- develop ideas, best practices, and guidelines for a full online evaluation campaign at CLEF 2021.
-
-We see academic search as a broader term for scientific and especially domain-specific retrieval tasks which comprises Document as well as Dataset Retrieval.
-As huge platforms like Google Scholar (or Google Dataset Search) are not open to public research and do not offer any domain-specific features, we focus on mid-size scientific search systems that offer domain-specific resources and use cases. This focus allows for using many specific information types like bibliographic metadata, usage data, download rates, citations, etc., in order to develop and evaluate innovative search applications. Further details on current evaluation infrastructures in academic search can be found in [Schaible et al. (2020)](http://link.springer.com/article/10.1007/s13222-020-00335-x).
-
-We would like to move beyond the traditional offline evaluation setup and bring together evaluation techniques from industry and practice into the academic realm. Therefore, utilizing online evaluations, as taking the actual user into account, would be a step forward towards improving the evaluation situation.
-The details of the online experiments and the metrics are to be discussed at the workshop, but right now we favor a setup which is based on a Docker container infrastructure that is briefly described in [Breuer et al. (2019)](http://ceur-ws.org/Vol-2409/position01.pdf) and would incorporate usage feedback like click-through rates.
+After LiLAS ran as a [workshop lab at CLEF 2020](/2020), in 2021 a full evaluation lab will take place.
 
 
-## Call for Contribution
+## Call for Participation
 
-For our workshop lab, we encourage participants both from academia and industry to submit their work on the theory, experimentation and practice regarding academic search systems and/or living lab evaluations. We strongly support novel ideas on either improving academic search, or on advancing the use of living labs to evaluate retrieval approaches. Furthermore, we support submissions on lessons learned on both academic search and living labs, to ignite discussions on how it is possible to improve their use. Our call for submission comprises, but is not limited to, the following: 
-- design and evaluation of intelligent search and recommendation approaches
-- design and evaluation of novel user interfaces aiding users to find scholarly resources
-- discussion of offline and online evaluation metrics and methods for measuring a system’s ability to aid users in finding scholarly resources 
-- discussion on alleviating the reproducibility issue of evaluation results
+### How to take part in LiLAS 2021
 
-  
-We solicit two types of contributions:
+LiLAS offers two different evaluation tasks: *Academic ad-hoc retrieval* for the multi-lingual and multi-source Life Science search portal LIVIVO and *research data recommendation* within the Social Science portal GESIS Search.
 
-__Research and Lessons Learned papers__ presenting novel contributions in the area of academic search and/or living lab systems as well as lessons learned discussing current challenges and possible solution mitigating the problems. Papers should be up to 8 pages including references.
+For both tasks, participants are invited to submit
 
-__Open ideas, discussion, and demo papers__ describing ideas that are not yet in the scope of a research contribution but illustrate an aspect of academic search and living lab systems that should be taken into account in the future. Papers should be up to 4 pages including references.
+- __Type A : pre-computed runs__ based on previously compiled queries (ad-hoc search) or documents (research data recommendations) from server logs or 
+- __Type B : Docker containers__ of full running retrieval/recommendation systems that run within our evaluation framework called STELLA. 
 
 
-## Submission Guidelines
+For type A, participants pre-compute result files following TREC run file syntax and submit them for integration into the live systems. For type B, participants encapsulate their retrieval system into a Docker container following some simple implementation rules inspired by the OSIRRC workshop at SIGIR 2019. 
+
+We release datasets containing queries and metadata of documents and data sets from the two systems mentioned above for training purposes. We offer a list of candidate documents and candidate research data for each query and seed document, respectively, so participants focus on the actual ranking approaches behind the ad-hoc search and recommendation task.
+
+<!--
+### Paper Submission Guidelines
 
 Submissions must be as PDF, formatted in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For details on the LNCS style, see [Springer’s Author Instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Authors should use Springer’s proceedings templates, either for LaTeX or for Word, and are encouraged to include their ORCIDs in the papers. 
 
 All submissions must be written in English and should be submitted electronically through the [conference submission system](https://www.easychair.org/conferences/?conf=clef2021).
-
-
-<!--
-## Tasks
-
-As this is a workshop lab, we don't have any explicit tasks like regular evaluation labs at CLEF. 
-
-Nevertheless we would like to release some sample data sets from the scientific search systems LIVIVO and GESIS-wide Search and some Docker templates to allow early adopters to implement first prototypes for an online evaluation. At the workshop we would like to have these early adopters who took part in this open beta phase to present their first-hand experiences to lay a foundation for 2021.
 -->
+
 
 ## Dates
 
@@ -71,6 +54,7 @@ We will have a *half-day workshop* that is split up in two parts.
 - [Johann Schaible](https://gesis.org/person/johann.schaible), GESIS, Germany
 - [Leyla Jael Garcia-Castro](https://www.linkedin.com/in/leyla-jael-garcia-castro-85384a17/), ZB MED, Germany
 
+<!--
 ### Program Committee 
 
 - Krisztian Balog, University of Stavanger, Norway
@@ -80,6 +64,8 @@ We will have a *half-day workshop* that is split up in two parts.
 - Ansgar Scherp, Ulm University, Germany
 - Philipp Mayr, GESIS, Germany
 - Tommaso di Noia, Politecnico di Bari, Italy
+
+-->
 
 ---
 
