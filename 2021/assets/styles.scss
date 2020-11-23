@@ -1,0 +1,49 @@
+---
+title: false
+styles: true
+---
+
+@import "alembic";
+
+
+.feature h2 {
+	color: #eee;
+	text-shadow:1px 1px 2px #3f3f3f;
+	font-size: 2.3em;
+}
+
+.feature h3 {
+	color: #eee;
+	text-shadow:1px 1px 2px #3f3f3f;
+	font-size: 1.3em;
+}
+
+.nav a {
+	color: #383838;	
+}
+
+.typeset p a, .typeset li a {
+	color: #383838;	
+	background-image: linear-gradient(to bottom, transparent 50%, #337ab7 50%);	
+}
+
+a:hover {
+	color: #337ab7;
+}
+
+.typeset p a:hover, .typeset li a:hover {
+	color: #337ab7;
+	background-image: linear-gradient(to bottom, transparent 50%, #337ab7 50%)
+}
+
+body {
+	font-family: "Source Sans Pro",Helvetica,Arial,sans-serif;
+}
+
+.feature .container {
+	min-height:40vh;
+}
+
+a img {
+	height: 200px;
+}
