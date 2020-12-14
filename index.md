@@ -61,7 +61,7 @@ For both platforms we release the documents/research data sets and a precompiled
 | Feedback 2           | May 10 '21              | Organizers gather feedback data from session logs and combine them to compute CTR, Wins, Losses, etc. | 
 | Paper Submission     | May 28 '21              | Submission of Participant Papers [CEUR-WS] | 
 
-For further details, please refer to the [CLEF 2021 schedule](https://clef2021.clef-initiative.eu/index.php?page=Pages/schedule.html)
+For further details, please refer to the [CLEF 2021 schedule](http://clef2021.clef-initiative.eu/index.php?page=Pages/schedule.html)
 
 
 <!--
