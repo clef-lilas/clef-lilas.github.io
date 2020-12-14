@@ -29,6 +29,41 @@ For type A, participants pre-compute result files following TREC run file syntax
 
 We release datasets containing queries and metadata of documents and data sets from the two systems mentioned above for training purposes. We offer a list of candidate documents and candidate research data for each query and seed document, respectively, so participants focus on the actual ranking approaches behind the ad-hoc search and recommendation task.
 
+## Data Sets
+
+We publish two data sets to allow participants to train and compile their systems for the two platforms LIVIVO and GESIS Search: https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N
+
+The data sets share a common struture:
+
+```.
+├── gesis-search
+│   ├── candidates
+│   ├── datasets
+│   ├── documents
+├── livivo
+│   ├── candidates
+│   ├── documents
+│   ├── head-queries
+```
+
+For both platforms we release the documents/research data sets and a precompiled set of candidate documents. For futher data set documentation, please refer to the documentation included in the repository. 
+
+## Dates
+
+| Phase                | Date                    | Description   |
+| -------------------- | ----------------------- | ------------- | 
+| Data release         | December 14 '20         | Date sets for LIVIVO and GESIS Search are released   |
+| Training phase 1     | Early January '21       | Tutorials are published and participants are start to develop their systems | 
+| Round 1              | March 1 - 28 '21        | Participants' submissions are deployed at LIVIVO and GESIS Search and session logs are collected | 
+| Feedback 1           | March 29 '21            | Organizers gather feedback data from session logs and combine them to compute CTR, Wins, Losses, etc. | 
+| Training phase 2     | March 30 - April 11 '21 | Participants adapt their systems based on the provided and annotated feedback data | 
+| Round 2              | April 12 - May 9 '21    | (Updated) systems are deployed and session logs are collected | 
+| Feedback 2           | May 10 '21              | Organizers gather feedback data from session logs and combine them to compute CTR, Wins, Losses, etc. | 
+| Paper Submission     | May 28 '21              | Submission of Participant Papers [CEUR-WS] | 
+
+For further details, please refer to the [CLEF 2021 schedule](https://clef2021.clef-initiative.eu/index.php?page=Pages/schedule.html)
+
+
 <!--
 ### Paper Submission Guidelines
 
@@ -36,12 +71,6 @@ Submissions must be as PDF, formatted in the style of the Springer Publications 
 
 All submissions must be written in English and should be submitted electronically through the [conference submission system](https://www.easychair.org/conferences/?conf=clef2021).
 -->
-
-
-## Dates
-
-For further details, please refer to the [CLEF 2021 schedule](https://clef2021.clef-initiative.eu/index.php?page=Pages/schedule.html)
-
 
 ## Organization
 
