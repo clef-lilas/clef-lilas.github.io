@@ -47,3 +47,25 @@ body {
 a img {
 	height: 200px;
 }
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  font-family: "Source Sans Pro",Helvetica,Arial,sans-serif;
+}
+
+tr:nth-child(even){
+	background-color: #f2f2f2;
+}
+
+tr:hover {
+	background-color: #ddd;
+}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #337ab7;
+  color: white;
+}
