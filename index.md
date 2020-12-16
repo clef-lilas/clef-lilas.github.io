@@ -17,7 +17,7 @@ After LiLAS ran as a [workshop lab at CLEF 2020](/2020), in 2021 a full evaluati
 
 ### How to take part in LiLAS 2021
 
-LiLAS offers two different evaluation tasks: *Academic ad-hoc retrieval* for the multi-lingual and multi-source Life Science search portal LIVIVO and *research data recommendation* within the Social Science portal GESIS Search.
+LiLAS offers two different evaluation tasks: *Academic ad-hoc retrieval* for the multi-lingual and multi-source Life Science search portal [LIVIVO](https://www.livivo.de) and *research data recommendation* within the Social Science portal [GESIS Search](https://www.gesis.org/en).
 
 For both tasks, participants are invited to submit
 
@@ -26,8 +26,6 @@ For both tasks, participants are invited to submit
 
 
 For type A, participants pre-compute result files following TREC run file syntax and submit them for integration into the live systems. For type B, participants encapsulate their retrieval system into a Docker container following some simple implementation rules inspired by the OSIRRC workshop at SIGIR 2019. 
-
-We release datasets containing queries and metadata of documents and data sets from the two systems mentioned above for training purposes. We offer a list of candidate documents and candidate research data for each query and seed document, respectively, so participants focus on the actual ranking approaches behind the ad-hoc search and recommendation task.
 
 ### Tasks
 
@@ -41,7 +39,8 @@ The [details of the two tasks](tasks) are described seperately.
 
 ### Data Sets
 
-We publish two data sets to allow participants to train and compile their systems for the two platforms LIVIVO and GESIS Search: [https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N)
+We publish two datasets to allow participants to train and compile their systems for the two platforms [LIVIVO](https://www.livivo.de) and [GESIS Search](https://www.gesis.org/en).
+We offer a list of candidate documents and candidate research data for each query and seed document, respectively, so participants focus on the actual ranking approaches behind the ad-hoc search and recommendation task: [https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N)
 
 The data sets share a common struture:
 
