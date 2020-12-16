@@ -20,7 +20,7 @@ __Evaluation.__ Participating approaches will be evaluated in the LIVIVO product
 ## Task 2: Research Data Recommendations
 
 __Motivation.__ Research data is of high importance in scientific research, especially when making progress in experimental investigations. 
-However, finding useful research data can be difficult and cumbersome, even if using dataset search engines, such as [Google Dataset Search](https://datasetsearch.research.google.com/). Therefore, one possible solution is to recommend such ``appropriate'' research data sets that are based on publications of the user's interest.  
+However, finding useful research data can be difficult and cumbersome, even if using dataset search engines, such as [Google Dataset Search](https://datasetsearch.research.google.com/). Therefore, one possible solution is to recommend such appropriate research data sets that are based on publications of the user's interest.  
 
 __Task description.__ The main task here is to provide recommendations of research data that are relevant to the publication the user is currently viewing. 
 For example, the user is interested in the impact of religion on political elections. She finds a publication regarding that topic, which has a set of research data candidates covering the same topic. The task is to rank the most relevant candidates to the top. Participants can submit type A and type B results. 
