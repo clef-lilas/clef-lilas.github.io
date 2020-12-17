@@ -5,6 +5,9 @@ styles: true
 
 @import "alembic";
 
+.content {
+	width: 85%;
+}
 
 .feature h2 {
 	color: #eee;
@@ -52,6 +55,7 @@ td, th {
   border: 1px solid #ddd;
   padding: 8px;
   font-family: "Source Sans Pro",Helvetica,Arial,sans-serif;
+  font-size:normal;
 }
 
 tr:nth-child(even){
@@ -62,10 +66,8 @@ tr:hover {
 	background-color: #ddd;
 }
 
-th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: #337ab7;
-  color: white;
+thead th {
+	font-style: bold;
+  	text-align: center;
+	font-size: 10px;
 }

@@ -10,34 +10,27 @@ title: LiLAS @ CLEF2021
 The *Living Labs for Academic Search* (LiLAS) lab aims to strengthen the concept of user-centric living labs for the domain of academic search by allowing participants to evaluate their retrieval approaches in two real-world academic search systems from the life sciences and the social sciences.
 To this end, we provide participants with metadata on the systems' content as well as candidate lists with the task to rank the most relevant candidate to the top. Using the [STELLA-infrastructure](http://www.stella-project.org), we allow participants to easily integrate their approaches into the real-world systems and provide the possibility to compare different approaches at the same time. 
 
-After LiLAS ran as a [workshop lab at CLEF 2020](/2020), in 2021 a full evaluation lab will take place.
+Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-registration.dei.unipd.it).
 
+## Tasks for CLEF 2021
 
-## Call for Participation
+LiLAS offers two different evaluation tasks:
 
-### How to take part in LiLAS 2021
-
-LiLAS offers two different evaluation tasks: *Academic ad-hoc retrieval* for the multi-lingual and multi-source Life Science search portal [LIVIVO](https://www.livivo.de) and *research data recommendation* within the Social Science portal [GESIS Search](https://www.gesis.org/en).
+1. __[Research dataset recommentation](tasks#task-1-ad-hoc-search-ranking)__ within the Social Science portal [GESIS Search](https://www.gesis.org/en): Given a scientifc publication find relevant research data sets (out of a list of candidates).
+2. __[Ad-hoc retrieval of scientific documents](tasks#task-2-research-data-recommendations)__ for the multi-lingual and multi-source Life Science search portal [LIVIVO](https://www.livivo.de).
 
 For both tasks, participants are invited to submit
 
-- __Type A : pre-computed runs__ based on previously compiled queries (ad-hoc search) or documents (research data recommendations) from server logs or 
-- __Type B : Docker containers__ of full running retrieval/recommendation systems that run within our evaluation framework called STELLA. 
+* __Type A : pre-computed runs__ based on previously compiled queries (ad-hoc search) or documents (research data recommendations) from server logs or 
+* __Type B : Docker containers__ of full running retrieval/recommendation systems that run within our evaluation framework called STELLA. 
 
 
 For type A, participants pre-compute result files following TREC run file syntax and submit them for integration into the live systems. For type B, participants encapsulate their retrieval system into a Docker container following some simple implementation rules inspired by the OSIRRC workshop at SIGIR 2019. 
 
-### Tasks
-
-We offer two tasks in LiLAS 2021:
-
-- __[Research dataset recommentation](tasks#task-1-ad-hoc-search-ranking)__ : Given a scientifc publication find relevant research data sets (out of a list of candidates).
-- __[Ad-hoc retrieval of scientific documents](tasks#task-2-research-data-recommendations)__ : Given a query string, find the most relevant documents (out of a list of candidates).
-
 The [details of the two tasks](tasks) are described seperately. 
 
 
-### Data Sets
+## Data Sets
 
 We publish two datasets to allow participants to train and compile their systems for the two platforms [LIVIVO](https://www.livivo.de) and [GESIS Search](https://www.gesis.org/en).
 We offer a list of candidate documents and candidate research data for each query and seed document, respectively, so participants focus on the actual ranking approaches behind the ad-hoc search and recommendation task: [https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N)
@@ -58,17 +51,14 @@ For both platforms we release the documents/research data sets and a precompiled
 
 ## Dates
 
-| Phase                | Date                    |
-| -------------------- | ----------------------- | 
-| Data release         | December 14 2020         |
-| Training phase 1     | January + February 2021  |
-| Round 1              | March 1 - 28 2021        |
-| Feedback 1           | March 29 2021            |
-| Training phase 2     | March 30 - April 11 2021 |
-| Round 2              | April 12 - May 9 2021    |
-| Feedback 2           | May 10 2021              |
-| Paper Submission     | May 28 2021              |
-
+* __December 14, 2020__, Data release
+* __January + February 2021__, Training phase 1 - code tutorial for the living lab component will be released
+* __March 1 - 28 2021__, Round 1 
+* __March 29 2021__, Feedback 1
+* __March 30 - April 11 2021__, Training phase 2
+* __April 12 - May 9 2021__, Round 2
+* __May 10 2021__, Feedback 2
+* __May 28 2021__, Paper Submission
 
 For further details, please refer to the [CLEF 2021 schedule](http://clef2021.clef-initiative.eu/index.php?page=Pages/schedule.html)
 
@@ -105,9 +95,10 @@ We will have a *half-day workshop* that is split up in two parts.
 
 -->
 
----
+## Follow us 
 
-Contact: <lilas@stella-project.org>
+[Google Groups](https://groups.google.com/forum/#!forum/clef-lilas)  \|  [GitHub](https://github.com/stella-project) \| <lilas@stella-project.org>
+
 
 LiLAS is part of CLEF 2021.
 
