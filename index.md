@@ -16,14 +16,13 @@ Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-regist
 
 LiLAS offers two different evaluation tasks:
 
-1. __[Research dataset recommentation](tasks#task-1-ad-hoc-search-ranking)__ within the Social Science portal [GESIS Search](https://www.gesis.org/en): Given a scientifc publication find relevant research data sets (out of a list of candidates).
-2. __[Ad-hoc retrieval of scientific documents](tasks#task-2-research-data-recommendations)__ for the multi-lingual and multi-source Life Science search portal [LIVIVO](https://www.livivo.de).
+1. __[Ad-hoc retrieval of scientific documents](tasks#task-1-ad-hoc-search-ranking)__ for the multi-lingual and multi-source Life Science search portal [LIVIVO](https://www.livivo.de).
+2. __[Research dataset recommentation](tasks#task-2-research-data-recommendations)__ within the Social Science portal [GESIS Search](https://www.gesis.org/en): Given a scientifc publication find relevant research data sets (out of a list of candidates).
 
 For both tasks, participants are invited to submit
 
 * __Type A : pre-computed runs__ based on previously compiled queries (ad-hoc search) or documents (research data recommendations) from server logs or 
 * __Type B : Docker containers__ of full running retrieval/recommendation systems that run within our evaluation framework called STELLA. 
-
 
 For type A, participants pre-compute result files following TREC run file syntax and submit them for integration into the live systems. For type B, participants encapsulate their retrieval system into a Docker container following some simple implementation rules inspired by the OSIRRC workshop at SIGIR 2019. 
 
