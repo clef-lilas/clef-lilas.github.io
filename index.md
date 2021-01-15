@@ -17,7 +17,7 @@ Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-regist
 LiLAS offers two different evaluation tasks:
 
 1. __[Ad-hoc retrieval of scientific documents](tasks#task-1-ad-hoc-search-ranking)__ for the multi-lingual and multi-source Life Science search portal [LIVIVO](https://www.livivo.de).
-2. __[Research dataset recommentation](tasks#task-2-research-data-recommendations)__ within the Social Science portal [GESIS Search](https://www.gesis.org/en): Given a scientifc publication find relevant research data sets (out of a list of candidates).
+2. __[Research dataset recommendation](tasks#task-2-research-data-recommendations)__ within the Social Science portal [GESIS Search](https://www.gesis.org/en): Given a scientific publication find relevant research data sets (out of a list of candidates).
 
 For both tasks, participants are invited to submit
 
