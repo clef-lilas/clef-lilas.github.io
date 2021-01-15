@@ -9,13 +9,55 @@ title: Tasks for LiLAS @ CLEF2021
 
 ## Task 1: Ad-hoc Search Ranking
 
-__Motivation.__ Finding the most relevant publications to a query remains a challenge in scholarly Information Retrieval systems, even more in multi-lingual and cross-domain environments. 
+__Motivation.__ Finding the most relevant publications to a query remains a challenge in scholarly Information Retrieval systems, even more in multi-lingual and cross-domain environments.
 
-__Task description.__ The participants are asked to define and implement their ranking approach for a multi-lingual candidate documents list. A good ranking should present users with the most relevant documents regarding a query on top of the result set. Regardless of the language used to pose the query, the retrieval can include candidate documents in multiple languages. Participants can submit type A and type B results. Type A rankings will be based on the most common queries in LIVIVO (see below) while Type B submissions should rank candidate documents for any incoming query. 
+* Task: Given a query and a 100-document candidate list, participants will rank  documents from most to least relevant with regards to the query
+* Input Data: [LIVIVO - Metadata Dump File](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N?path=%2Flivivo)
+* Submission: Pre-computed rankings or docker containers for live integration into [LIVIVO](https://livivo.de)
 
-__Dataset and lab data.__ [LIVIVO](https://livivo.de) is a search portal developed by [ZB MED - Information Centre for Life Sciences](https://zbmed.de), providing comprehensive access to literature in life sciences, including resources from medicine, health, environment, agriculture, and nutrition. LIVIVO corpus consists of about 80 million documents from more than 50 data sources in multiple languages (e.g., English, German, French) covering a variety of  scholarly publication types (e.g., conferences, preprints, peer-review journals). We provide LiLAS participants with a set of common queries with their corresponding candidate documents (and metadata), which participants will rank according to their relevance regarding the query. We also provide participants with logs regarding which documents have been accessed by users and in which order (e.g., click-through rate, if available). 
+__Task description.__ The goal of Task 1 is supporting researchers find the most relevant documents regarding a head query. Participants are asked to define and implement their ranking approach for a multi-lingual candidate documents list. A good ranking should present users with the most relevant documents regarding a query on top of the result set. Multiple languages can be used to pose the query (e.g. English, German, French); regardless of the language used on the query, the retrieval can include candidate documents in other languages. 
 
-__Evaluation.__ Participating approaches will be evaluated in the LIVIVO production system on gains, losses, and ties regarding user preferences (e.g., click-through rate per query and candidates list). We will follow a _Team Draft Interleaving_ (TDI) approach where LIVIVO and participants rankings are interleaved and presented together. This way, we will be able to compare all participating systems against each other.
+__Dataset and lab data.__ We provide training and test datasets comprising [head queries and 100-document candidate list](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N?path=%2Flivivo%2Fcandidates) as JSONL files. Participating head queries will be restricted to keywords-based search or keywords-based search plus AND, OR and NOT operators. 
+
+A head query has an identifier ```qid```, a query string ```qstr``` and a frequency ```freq``` (a measure which indicates how often the query was issued) . An example is shown here:
+```python
+{"qid": 1001, "qstr": "integrierte AND versorgung", "freq": 12}
+```
+
+A candidate list will include the query identifier ```qid``` and corresponding string ```qstr```, together with a list of 100 document ids.
+```python
+"candidates": ["C951899619", "C676171", "848078", "C765841" ... ]
+```
+Documents from [3 major scholarly article databases](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N?path=%2Flivivo%2Fdocuments) are also provided so participants can create their own indexes. A document will include the documents id together with other fields. An example is shown here:
+```python
+{
+  "DBRECORDID": "AGRISFR2016215853",
+  "TITLE": [
+    "Dissection ..."
+  ],
+  "AUTHOR": [
+    "Teyssèdre, Simon"
+  ],
+  "SOURCE": [
+    "Dissection ..."
+  ],
+  "LANGUAGE": [
+    "fra"
+  ],
+  "DATABASE": [
+    "AGRIS"
+  ]
+}
+``` 
+__Submission.__ There are two possible submission type A (pre-computed rankings) and B (docker containers for live integration). Participants can submit type A and type B results. Type A rankings will be based on the most common queries in LIVIVO (see "Dataset and lab data" section above) while Type B submissions should rank candidate documents for any incoming query. 
+For any questions please join our [Google Groups](https://groups.google.com/forum/#!forum/clef-lilas) or send us en email [lilas@stella-project.org](mailto:lilas@stella-project.org)
+We will open registration and submission via our STELLA server close to the submission date.
+
+__Evaluation.__ Evaluation will be based on the Team Draft Interleaving (TDI) approach where LIVIVO and participants rankings are interleaved and presented together. This way, we will be able to compare all participating systems against each other.
+* Type A (pre-computed): Participating approaches will be evaluated against a set of predefined head queries gathered from the production system LIVIVO on gains, losses, and ties regarding user preferences (e.g., click-through rate per query and candidates list recorded via logs). We will use TDI to combine results from production and participants.
+* Type B (docker containers). Participating approaches will be integrated into the LIVIVO production system and evaluated on live queries on gains, losses, and ties regarding user preferences (e.g., click-through rate per query and candidates list). We will use TDI to combine results from production and participants.
+
+__Living Lab.__ Submissions in the form of docker containers will be integrated into [LIVIVO](https://livivo.de), a library-focused search portal for Life Sciences developed by [ZB MED - Information Centre for Life Sciences](https://zbmed.de). LIVIVO provides a comprehensive access to literature in life sciences, including resources from medicine, health, environment, agriculture, and nutrition. LIVIVO corpus consists of about 80 million documents from more than 50 data sources in multiple languages (e.g., English, German, French) covering a variety of  scholarly publication types (e.g., conferences, preprints, peer-review journals). For LiLAS lab we will use a subset of LIVIVO data, more information under the section above "Dataset and lab data".
 
 ## Task 2: Research Data Recommendations
 
