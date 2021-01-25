@@ -14,7 +14,7 @@ Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-regist
 
 ## Recent Updates
 
-* January 2021: The data sets for both tasks [are available](#data-sets). 
+- January 2021: The data sets for both tasks [are available](#data-sets). 
 
 ## Tasks for CLEF 2021
 
