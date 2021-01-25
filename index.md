@@ -12,14 +12,6 @@ To this end, we provide participants with metadata on the systems' content as we
 
 Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-registration.dei.unipd.it).
 
-## Recent Updates
-
-asdf
-
-- January 2021: The data sets for both tasks [are available](#data-sets). 
-
-asdf
-
 ## Tasks for CLEF 2021
 
 LiLAS offers two different evaluation tasks:
