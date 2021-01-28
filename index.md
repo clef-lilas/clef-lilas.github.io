@@ -7,12 +7,15 @@ layout: page
 title: LiLAS @ CLEF2021
 ---
 
-a
-
 The *Living Labs for Academic Search* (LiLAS) lab aims to strengthen the concept of user-centric living labs for the domain of academic search by allowing participants to evaluate their retrieval approaches in two real-world academic search systems from the life sciences and the social sciences.
 To this end, we provide participants with metadata on the systems' content as well as candidate lists with the task to rank the most relevant candidate to the top. Using the [STELLA-infrastructure](http://www.stella-project.org), we allow participants to easily integrate their approaches into the real-world systems and provide the possibility to compare different approaches at the same time. 
 
 Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-registration.dei.unipd.it).
+
+## Update
+
+- 28 January '21: [Extended task descriptions](tasks) available
+- December '20: Datasets are available at [https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N)
 
 ## Tasks for CLEF 2021
 
