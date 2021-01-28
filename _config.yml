@@ -1,4 +1,5 @@
-remote_theme: daviddarnes/alembic
+remote_theme: daviddarnes/alembic@main
+# theme: alembic-jekyll-theme
 
 # Site configuration
 # 1. Files excluded from Jekyll builds
@@ -26,17 +27,16 @@ exclude:
 
 # 2. Installed Gems
 plugins:
-- jekyll-remote-theme
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-redirect-from
-- jekyll-default-layout
 - jekyll-feed
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
+- jekyll-remote-theme
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
