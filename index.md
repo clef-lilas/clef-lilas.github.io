@@ -62,7 +62,7 @@ Currently, the infrastructure supports two different types of submission.
 Experimenters can choose to submit pre-computed runs with TREC run file syntax *OR* use this repository in order to integrate their system as a micro-service into the [STELLA App](https://github.com/stella-project/stella-app).
 In contrast to pre-computed results, these dockerized systems can deliver more comprehensive search result since they are not limited to pre-selected queries or items.
 
-![](https://github.com/stella-project/stella-micro-template/blob/master/doc/STELLA_participate_ani.gif)
+![](assets/STELLA_participate_ani.gif)
 
 - [Docker template for type b submissions](https://github.com/stella-project/stella-micro-template)
 
