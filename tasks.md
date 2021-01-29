@@ -50,6 +50,7 @@ Documents from [3 major scholarly article databases](https://th-koeln.sciebo.de/
 }
 ``` 
 __Submission.__ There are two possible submission type A (pre-computed rankings) and B (docker containers for live integration). Participants can submit type A and type B results. Type A rankings will be based on the most common queries in LIVIVO (see "Dataset and lab data" section above) while Type B submissions should rank candidate documents for any incoming query. 
+For type A submissions, please have a look at this [guide](https://github.com/stella-project/stella-micro-template-precom/blob/master/README.md). Type B submissions are based on the [stella-micro-template](https://github.com/stella-project/stella-micro-template). 
 For any questions please join our [Google Groups](https://groups.google.com/forum/#!forum/clef-lilas) or send us en email [lilas@stella-project.org](mailto:lilas@stella-project.org)
 We will open registration and submission via our STELLA server close to the submission date.
 
@@ -66,7 +67,7 @@ However, finding useful research data can be difficult and cumbersome, even if u
 
 __Task description.__ The main task here is to provide recommendations of research data that are relevant to the publication the user is currently viewing. 
 For example, the user is interested in the impact of religion on political elections. She finds a publication regarding that topic, which has a set of research data candidates covering the same topic. The task is to rank the most relevant candidates to the top. Participants can submit type A and type B results. 
-Whereas the pre-computed type A results comprise recommendations for existing publications and research data only, the Docker variant in type B will also compute recommendations for new publications and research data.
+Whereas the pre-computed type A results comprise recommendations for existing publications and research data only, the Docker variant in type B will also compute recommendations for new publications and research data. For type A submissions, please have a look at this [guide](https://github.com/stella-project/stella-micro-template-precom/blob/master/README.md). Type B submissions are based on the [stella-micro-template](https://github.com/stella-project/stella-micro-template). 
 
 __Dataset and lab data.__ The data for this tasks is taken from the academic search system [GESIS Search](https://search.gesis.org/) ([Hienert et al. 2019](https://ieeexplore.ieee.org/document/8791137)). Besides social science literature (107k publications), it also provides research data (77k) on social science topics, out of which the participants are given the metadata to all publications and all contained research data.  
 The publications are mostly in English and German and are annotated with further textual metadata like title, abstract, topic, persons, and others. Metadata on research data comprises (among others) a title, topics, datatype, abstract, collection method and universe, temporal and geographical coverage, primary investigators, as well as contributors in English and/or German. The set of research data candidates for each publication, which is given to the participants as well, is computed based on context similarity between publications and research data. 
