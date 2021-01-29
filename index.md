@@ -64,7 +64,11 @@ In contrast to pre-computed results, these dockerized systems can deliver more c
 
 ![](assets/STELLA_participate_ani.gif)
 
-- [Docker template for type b submissions](https://github.com/stella-project/stella-micro-template)
+### Ressources
+
+- [Docker template for Type B submissions](https://github.com/stella-project/stella-micro-template)
+- [Tutorial on how to implement your own STELLA-based ranker](https://github.com/stella-project/stella-micro-template/blob/master/doc/rank/README.md)
+- [Tutorial on how to implement your own STELLA-based dataset recommender](https://github.com/stella-project/stella-micro-template/blob/master/doc/rec/README.md)
 
 ## Dates
 
