@@ -15,6 +15,7 @@ Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-regist
 ## Update
 
 - 28 January '21: [Extended task descriptions](tasks) available
+- 14 January' 21: Information on the
 - December '20: Datasets are available at [https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N)
 
 ## Tasks for CLEF 2021
@@ -52,6 +53,14 @@ The data sets share a common struture:
 ```
 
 For both platforms we release the documents/research data sets and a precompiled set of candidate documents. For further data set documentation, please refer to the documentation included in the repository. 
+
+## The STELLA Evaluation Framework
+
+We use the STELLA framework to include your rankings and recommendations!
+
+![](https://github.com/stella-project/stella-micro-template/blob/master/doc/STELLA_participate_ani.gif)
+
+- [Docker template for type b submissions](https://github.com/stella-project/stella-micro-template)
 
 ## Dates
 
