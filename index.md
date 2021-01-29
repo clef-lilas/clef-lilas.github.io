@@ -14,9 +14,9 @@ Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-regist
 
 ## Update
 
-- 28 January '21: [Extended task descriptions](tasks) available
-- 14 January' 21: Information on the
-- December '20: Datasets are available at [https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N)
+- January 28 2021: [Extended task descriptions](tasks) is available.
+- January 14 2021: Information on the [STELLA evaluation framework](#stella-evaluation-framework) we use in LiLAS is available.
+- December 14 2020: Datasets are available at [https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N)
 
 ## Tasks for CLEF 2021
 
@@ -54,9 +54,13 @@ The data sets share a common struture:
 
 For both platforms we release the documents/research data sets and a precompiled set of candidate documents. For further data set documentation, please refer to the documentation included in the repository. 
 
-## The STELLA Evaluation Framework
+## STELLA Evaluation Framework
 
-We use the STELLA framework to include your rankings and recommendations!
+We use the STELLA framework to include your rankings and recommendations! 
+
+Currently, the infrastructure supports two different types of submission. 
+Experimenters can choose to submit pre-computed runs with TREC run file syntax *OR* use this repository in order to integrate their system as a micro-service into the [STELLA App](https://github.com/stella-project/stella-app).
+In contrast to pre-computed results, these dockerized systems can deliver more comprehensive search result since they are not limited to pre-selected queries or items.
 
 ![](https://github.com/stella-project/stella-micro-template/blob/master/doc/STELLA_participate_ani.gif)
 
