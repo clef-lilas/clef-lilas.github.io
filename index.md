@@ -14,6 +14,7 @@ Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-regist
 
 ## Update
 
+- March 1 2021: Round 1 started for [task 2](tasks#task-2-research-data-recommendations! New LIVIVO data for [tasks 1](tasks#task-1-ad-hoc-search-ranking) released. Please [download the data sets again](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N) to have the latest fixes for your systems available. We will adapt the LIVIO time schedule to allow to include these fixes.
 - January 28 2021: [Extended task descriptions](tasks) is available.
 - January 14 2021: Information on the [STELLA evaluation framework](#stella-evaluation-framework) we use in LiLAS is available.
 - December 14 2020: Datasets are available at [https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N)
