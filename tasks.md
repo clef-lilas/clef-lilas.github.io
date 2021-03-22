@@ -122,7 +122,8 @@ Example of research data:
 __Evaluation.__
 Evaluation will be based on the Team Draft Interleaving (TDI) approach where the GESIS-Search and participants' ranking results are interleaved and presented together. This way, we will be able to compare all participating systems against each other.
 In both _type A_ and _type B_, the participating approaches will be evaluated in the GESIS-Search productive system, where the _top-k_ (with 3 &le; k &le; 15 depending on the number of candidates) recommendations are shown to the user. The evaluation itself is performed using implicit feedback. To this end, we calculate gains, losses, and ties regarding user preferences, based on click-through-rates (CTR).
-# An additional explicit feedback is gathered via options, such as a _thumbs up_ and _thumbs down_, in which the users can indicate whether the recommendation was relevant to them or not.
+<!--An additional explicit feedback is gathered via options, such as a _thumbs up_ and _thumbs down_, in which the users can indicate whether the recommendation was relevant to them or not.
+-->
 
 <!-- Old specification
 With an A/B-testing, the GESIS Search users will be shown the recommendations separated by the users' session-id. This means, for each session-id, STELLA selects one recommendation approach out of all participants. This way, we are able to compare all participating systems against each other without confusing the user with different recommendations for the same publication.
