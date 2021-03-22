@@ -56,7 +56,7 @@ The data sets share a common struture:
 
 For both platforms we release the documents/research data sets and a precompiled set of candidate documents. For further data set documentation, please refer to the documentation included in the repository.
 
-## Feeedback and Evaluation Metrics
+## Feedback and Evaluation Metrics
 
 For both we use an interleaving between the experimental systems and the baseline productive system.  Within GESIS Search we track clicks on the dataset records.  Within LIVIVO we track the following click events:
 
@@ -89,8 +89,8 @@ In contrast to pre-computed results, these dockerized systems can deliver more c
 
 ## Dates
 
-* __~~~December 14, 2020~~~__, Data release
-* __~~~January + February 2021~~~__, Training phase 1 - code tutorial for the living lab component will be released
+* __~~December 14, 2020~~__, Data release
+* __~~January + February 2021~~__, Training phase 1 - code tutorial for the living lab component will be released
 * __March 1 - 28 2021__, Round 1 for GESIS
 * __March 5 - 28 2021__, Round 1 for LIVIVO (due to technical hiccups)
 * __March 29 2021__, Feedback 1
