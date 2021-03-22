@@ -14,6 +14,7 @@ Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-regist
 
 ## Update
 
+- March 21 2021: Schedule and information on click feedback updated
 - March 1 2021: Round 1 started for [task 2](tasks#task-2-research-data-recommendations)! New LIVIVO data for [tasks 1](tasks#task-1-ad-hoc-search-ranking) released. Please [download the data sets again](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N) to have the latest fixes for your systems available. We will adapt the LIVIO time schedule to allow to include these fixes.
 - January 28 2021: [Extended task descriptions](tasks) is available.
 - January 14 2021: Information on the [STELLA evaluation framework](#stella-evaluation-framework) we use in LiLAS is available.
@@ -76,7 +77,8 @@ In contrast to pre-computed results, these dockerized systems can deliver more c
 
 * __December 14, 2020__, Data release
 * __January + February 2021__, Training phase 1 - code tutorial for the living lab component will be released
-* __March 1 - 28 2021__, Round 1
+* __March 1 - 28 2021__, Round 1 for GESIS
+* __March 5 - 28 2021__, Round 1 for LIVIVO (due to technical hiccups)
 * __March 29 2021__, Feedback 1
 * __March 30 - April 11 2021__, Training phase 2
 * __April 12 - May 9 2021__, Round 2
