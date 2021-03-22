@@ -14,7 +14,7 @@ Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-regist
 
 ## Update
 
-- March 21 2021: Schedule and information on click feedback updated
+- March 21 2021: [Schedule](#dates) and information on [click feedback](#feedback-and-evaluation-metrics) updated.
 - March 1 2021: Round 1 started for [task 2](tasks#task-2-research-data-recommendations)! New LIVIVO data for [tasks 1](tasks#task-1-ad-hoc-search-ranking) released. Please [download the data sets again](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N) to have the latest fixes for your systems available. We will adapt the LIVIO time schedule to allow to include these fixes.
 - January 28 2021: [Extended task descriptions](tasks) is available.
 - January 14 2021: Information on the [STELLA evaluation framework](#stella-evaluation-framework) we use in LiLAS is available.
@@ -56,6 +56,20 @@ The data sets share a common struture:
 
 For both platforms we release the documents/research data sets and a precompiled set of candidate documents. For further data set documentation, please refer to the documentation included in the repository.
 
+## Feeedback and Evaluation Metrics
+
+For both we use an interleaving between the experimental systems and the baseline productive system.  Within GESIS Search we track clicks on the dataset records.  Within LIVIVO we track the following click events:
+
+- set bookmark
+- show details
+- show fulltext
+- instock (shows Information about location etc. if document is in ZB MED holdings)
+- more_links (one of the links, listed under "more links" clicked)
+- order (order document from ZB MED)
+- title (title/headline clicked)
+
+Using these events we compute __wins, ties and losses__ against the production baseline system. 
+
 ## STELLA Evaluation Framework
 
 We use the STELLA framework to include your rankings and recommendations!
@@ -75,8 +89,8 @@ In contrast to pre-computed results, these dockerized systems can deliver more c
 
 ## Dates
 
-* __December 14, 2020__, Data release
-* __January + February 2021__, Training phase 1 - code tutorial for the living lab component will be released
+* __~~~December 14, 2020~~~__, Data release
+* __~~~January + February 2021~~~__, Training phase 1 - code tutorial for the living lab component will be released
 * __March 1 - 28 2021__, Round 1 for GESIS
 * __March 5 - 28 2021__, Round 1 for LIVIVO (due to technical hiccups)
 * __March 29 2021__, Feedback 1
