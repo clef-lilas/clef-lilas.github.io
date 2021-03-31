@@ -12,7 +12,7 @@ To this end, we provide participants with metadata on the systems' content as we
 
 Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-registration.dei.unipd.it).
 
-## Update
+## Updates
 
 - March 30 2021: Round 1 ended yesterday and click feedback data is available at [https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N)
 - March 21 2021: [Schedule](#dates) and information on [click feedback](#feedback-and-evaluation-metrics) updated.
@@ -92,9 +92,9 @@ In contrast to pre-computed results, these dockerized systems can deliver more c
 
 * __~~December 14, 2020~~__, Data release
 * __~~January + February 2021~~__, Training phase 1 - code tutorial for the living lab component will be released
-* __March 1 - 28 2021__, Round 1 for GESIS
-* __March 5 - 28 2021__, Round 1 for LIVIVO (due to technical hiccups)
-* __March 29 2021__, Feedback 1
+* __~~March 1 - 28 2021~~__, Round 1 for GESIS
+* __~~March 5 - 28 2021~~__, Round 1 for LIVIVO (due to technical hiccups)
+* __~~March 29 2021~~__, Feedback 1
 * __March 30 - April 11 2021__, Training phase 2
 * __April 12 - May 9 2021__, Round 2
 * __May 10 2021__, Feedback 2
