@@ -14,6 +14,7 @@ Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-regist
 
 ## Updates
 
+- 17 May: Round 2 ended and results were sent to the praticipating groups! Please remember to submit your workshop notes until 28 May.
 - 30 March 2021: Round 1 ended yesterday and click feedback data is available at [https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N)
 - 21 March 2021: [Schedule](#dates) and information on [click feedback](#feedback-and-evaluation-metrics) updated.
 - 1 March 2021: Round 1 started for [task 2](tasks#task-2-research-data-recommendations)! New LIVIVO data for [tasks 1](tasks#task-1-ad-hoc-search-ranking) released. Please [download the data sets again](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N) to have the latest fixes for your systems available. We will adapt the LIVIO time schedule to allow to include these fixes.
@@ -95,9 +96,9 @@ In contrast to pre-computed results, these dockerized systems can deliver more c
 * __~~1 March - 28 March 2021~~__, Round 1 for GESIS
 * __~~5 March - 28 March 2021~~__, Round 1 for LIVIVO (due to technical hiccups)
 * __~~29 March 2021~~__, Feedback 1
-* __30 March - 11 April 2021__, Training phase 2
-* __12 April - 9 May 2021__, Round 2
-* __10 May 2021__, Feedback 2
+* __~~30 March - 11 April 2021~~__, Training phase 2
+* __~~12 April - 17 May 2021~~__, Round 2
+* __~~10 May 2021~~__, Feedback 2
 * __28 May 2021__, Paper Submission
 
 For further details, please refer to the [CLEF 2021 schedule](http://clef2021.clef-initiative.eu/index.php?page=Pages/schedule.html)
