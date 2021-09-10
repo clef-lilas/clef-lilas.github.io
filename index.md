@@ -10,10 +10,26 @@ title: LiLAS @ CLEF2021
 The *Living Labs for Academic Search* (LiLAS) lab aims to strengthen the concept of user-centric living labs for the domain of academic search by allowing participants to evaluate their retrieval approaches in two real-world academic search systems from the life sciences and the social sciences.
 To this end, we provide participants with metadata on the systems' content as well as candidate lists with the task to rank the most relevant candidate to the top. Using the [STELLA-infrastructure](http://www.stella-project.org), we allow participants to easily integrate their approaches into the real-world systems and provide the possibility to compare different approaches at the same time.
 
-Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-registration.dei.unipd.it).
+<!-- Please [register at CLEF to take part in LiLAS 2021](http://clef2021-labs-registration.dei.unipd.it).-->
+
+## Schedule for 21 September 2021
+
+All times are for the main conference location Bucharest (GMT+3). For more detailed information regarding registration and the official programme of CLEF 2021 [check the official CLEF 2021 website](http://clef2021.clef-initiative.eu/index.php). Don't forget to [register for CLEF 2021](https://forms.gle/bfcPqhaNDhnA1NiU8)!
+
+|Time  | Topic  |
+|------|------------------------------------|
+|15:30 | Introduction and Welcome, Overview and Tasks (Philipp Schaer) |
+|15:45 | STELLA Infrastructure and Tech Details of LiLAS (Timo Breuer)|
+|16:00 | Presentations of Participating Teams |
+|16:30 | Results (Timo Breuer) |
+|16:45 | Discussion and Outlook (Leyla Jael Garcia) |
+|17:00 | End of Session |
+
+
 
 ## Updates
 
+- 16 September: [Please register for CLEF 2021](https://forms.gle/bfcPqhaNDhnA1NiU8)!
 - 17 May: Round 2 ended and results were sent to the praticipating groups! Please remember to submit your workshop notes until 28 May.
 - 30 March 2021: Round 1 ended yesterday and click feedback data is available at [https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N](https://th-koeln.sciebo.de/s/OBm0NLEwz1RYl9N)
 - 21 March 2021: [Schedule](#dates) and information on [click feedback](#feedback-and-evaluation-metrics) updated.
